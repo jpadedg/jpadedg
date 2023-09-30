@@ -19,7 +19,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=jpadedg&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 
-<img src="https://raw.githubusercontent.com/jpadedg/jpadedg/output/snake.svg" alt="Snake animation" />
-###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

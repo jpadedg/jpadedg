@@ -2,7 +2,7 @@
 ---
 
 # 💫 About Me:
-🔭 I'm currently studying technology at dnc school<br>🌱 Studies focused on Full Stack<br>💬 Passionate about technology<br>⚡ Gamer in free time<br>💻​ Computer Engineer<br>🚀 Ready for new challenges<br>
+🌱 Studies focused on Full Stack<br>💬 Passionate about technology<br>⚡ Gamer in free time<br>💻​ Computer Engineer<br>🚀 Ready for new challenges<br>
 
 
 ## 🌐 Socials:
